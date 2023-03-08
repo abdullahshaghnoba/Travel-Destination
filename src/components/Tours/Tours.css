@@ -1,0 +1,14 @@
+
+
+.toursElements {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    color: black;
+    border: solid;
+}
