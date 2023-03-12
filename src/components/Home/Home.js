@@ -1,12 +1,11 @@
-import Footer from "../Footer/Footer";
-import Header from "../Header/Header";
+
 import Tours from "../Tours/Tours"
 function Home() {
     return (
-        <div>
-            <Header />
+        <div id = 'home' className="home">
+          
             <Tours/>
-            <Footer/>
+            
         </div>
     )
 }

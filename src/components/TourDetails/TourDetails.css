@@ -1,0 +1,21 @@
+.info {
+    background-color: #a52a2a30;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #eed7d7d1;
+}
+
+.card {
+    height: 50%;
+}
